@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "woods",
+		"player1": "bf",
+		"player2": "herobrine",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Screen Shake",
+						"176, 0.002",
+						"176, 0.002"
+					]
+				]
+			],
+			[
+				0,
+				[
+					[
+						"midlescroll",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Danger"
+	}
+}
